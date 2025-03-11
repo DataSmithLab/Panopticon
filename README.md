@@ -103,6 +103,6 @@ When you use Panopticon for your research, please cite us:
 @article{panopticon_2025,
     title={Panopticon: The Design and Evaluation of a Game that Teaches Data Science Students Designing Privacy},
     journal = {Proceedings on Privacy Enhancing Technologies},
-    author = {Tian, Yuhe and Chu, Shao-Yu and Liu, Yuxuan and Hao, Jianjin},
+    author = {Tian, Yuhe and Chu, Shao-Yu and Liu, Yuxuan and Jin, Haojian},
 	year = {2025},
 }
