@@ -72,10 +72,10 @@ Hand each player:
 - Be constructive in your critiques
 - Use the worksheet structure to organize your thoughts
 
-## Video Tutorials
+## Video Tutorials  
+To help with the game setup and guide you through the design worksheet, we have recorded a tutorial video. You can watch it **[here](https://youtu.be/fNP_v5dA_DY)** or click the thumbnail below:  
 
-- [Video Tutorial 1: Panopticon Game Board Instructions](https://youtu.be/-VNpmpUtGq8)
-- [Video Tutorial 2: Panopticon Worksheet Instructions](https://youtu.be/7JbWdBSkWDc)
+[![Video Thumbnail](https://img.youtube.com/vi/fNP_v5dA_DY/0.jpg)](https://www.youtube.com/watch?v=fNP_v5dA_DY)  
 
 ## Frequently Asked Questions
 
