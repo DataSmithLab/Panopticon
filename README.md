@@ -28,7 +28,7 @@ This repository contains all materials needed to play Panopticon:
 
 - **Game Board**: [PDF](game_board.pdf) (A3 preferred, or 2 A4 sheets connected)
 - **Game Rules**: [PDF](panopticon_rules.pdf) | [Markdown](panopticon_rules.md)
-- **Design Worksheet**: [PDF](Worksheet.pdf) 
+- **Design Worksheet**: [PDF](worksheet.pdf) 
 - **Task Bank**: [PDF](task_bank.pdf) | [Markdown](task_bank.md)
 
 File Formats
