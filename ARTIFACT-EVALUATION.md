@@ -1,7 +1,7 @@
 # Artifact Appendix
 
 **Paper title:** Panopticon: The Design and Evaluation of a Game that Teaches Data Science Students Designing Privacy  
-**Artifacts HotCRP Id:** #12\ 
+**Artifacts HotCRP Id:** #12 \ 
 **Requested Badge:** Available  
 
 ## Description
