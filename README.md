@@ -26,10 +26,10 @@ Drawing inspiration from Monopoly, Panopticon reimagines financial systems as a 
 
 This repository contains all materials needed to play Panopticon:
 
-- **Game Board**: [PDF](Game Board.pdf) (A3 preferred, or 2 A4 sheets connected)
-- **Game Rules**: [PDF](Panopticon Rules & Instructions.pdf) | [Markdown](Panopticon Rules & Instructions.md)
+- **Game Board**: [PDF](game_board.pdf) (A3 preferred, or 2 A4 sheets connected)
+- **Game Rules**: [PDF](panopticon_rules.pdf) | [Markdown](panopticon_rules.md)
 - **Design Worksheet**: [PDF](Worksheet.pdf) 
-- **Task Bank**: [PDF](Task Bank.pdf) | [Markdown](Task Bank.md)
+- **Task Bank**: [PDF](task_bank.pdf) | [Markdown](task_bank.md)
 
 File Formats
 - PDF Files: Ready for printing without modifications
