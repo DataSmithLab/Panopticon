@@ -16,7 +16,7 @@ Panopticon does not pose security or privacy risks to the reviewer’s system. T
 The artifact is available via a publicly accessible repository:  
 **https://github.com/DataSmithLab/Panopticon**  
 To ensure reproducibility, use the following commit/tag for evaluation:  
-**Commit ID:** 25d69f8   
+**Commit ID:** 7d49e48    
 
 The repository contains:
 - **Game Board**: Available in PDF format for printing.
