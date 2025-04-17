@@ -12,6 +12,12 @@
 - When players land on a service type space and decide to claim the land, they will roll the dice to randomly draw a hypothesis question, which is designed to be tested by the respective digital services within the game.
 
 ### 1.3. Board Layout: 24 Spaces in Total
+
+<div align="center">
+  <a href="figures/Colored_Game_Board.png">
+  <img src="figures/Labeled_GameBoard.png" width="1000"/>
+</div>
+
 - **14 Digital Service Spaces**
   - **Digital Service Space Types:**
     - Social Networking Apps (Facebook, Instagram, Snapchat, Zoom, etc.)
