@@ -14,7 +14,7 @@
 ### 1.3. Board Layout: 24 Spaces in Total
 
 <div align="center">
-  <a href="figures/Colored_Game_Board.png">
+  <a href="figures/Labeled_GameBoard.png">
   <img src="figures/Labeled_GameBoard.png" width="1000"/>
 </div>
 
@@ -33,6 +33,11 @@
   - **Insightful Inquiry**: Players must inquire about one of the existing designs when landing on this space. The landowner will have **1 min** to revise their designs based on the inquiry.
 
 ## 2. Game Rules
+
+<div align="center">
+  <a href="figures/game_workflow.png">
+  <img src="figures/game_workflow.png" width="1000"/>
+</div>
 
 ### 2.1. Starting the Game:
 - Players roll the dice to determine the order of play. The player with the highest roll will draw a theme card from the deck of theme cards and will also go first.
