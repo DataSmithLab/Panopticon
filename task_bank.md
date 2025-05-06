@@ -5,9 +5,12 @@
 <p align="center">
   <img src="https://img.freepik.com/free-vector/dating-app-swipe-concept_23-2148529704.jpg" width="600" alt="Image by Freepik">
 </p>
-<div style="text-align: center; color: gray; font-size: small;">
-  Image by <a href="https://www.freepik.com/free-vector/dating-app-swipe-concept_7912136.htm" target="_blank" style="color: gray;">Freepik</a>
-</div>
+
+<p align="center">
+  <em style="color: #555555; font-size: small;">
+    Image by <a href="https://www.freepik.com/free-vector/dating-app-swipe-concept_7912136.htm" target="_blank" style="color: #555555;">Freepik</a>
+  </em>
+</p>
 
 In the increasingly digital world of romance, dating apps have become a primary way for people to connect with potential partners. A popular dating app currently includes a matching page that displays basic user information—photos, age, occupation, and a short bio. Users swipe right to express interest or left to pass. To gain a competitive edge, the app is exploring new ways to improve its matching system and user experience.
 
@@ -20,10 +23,14 @@ The social networking team is evaluating whether displaying these social connect
 ## Social 2
 
 <p align="center">
-<img src="https://img.freepik.com/free-vector/social-media-facebook-post-frame_23-2150934932.jpg" alt="Image by Freepik" width="600"/>
-<figcaption style="font-size: small; text-align: center; color: gray;">Image by 
-<a href="https://www.freepik.com/free-vector/social-media-facebook-post-frame_81095750.htm" style="color: gray;" target="_blank">Freepik</a>
-</figcaption>
+  <img src="https://img.freepik.com/free-vector/social-media-facebook-post-frame_23-2150934932.jpg" alt="Image by Freepik" width="600"/>
+</p>
+
+<p align="center">
+  <em style="color: #555555; font-size: small;">
+    Image by 
+    <a href="https://www.freepik.com/free-vector/social-media-facebook-post-frame_81095750.htm" style="color: #555555;" target="_blank">Freepik</a>
+  </em>
 </p>
 
 Social media platforms offer a wide range of text-based content, from short posts and status updates to long-form articles and blog entries. These apps include features like infinite scrolling, personalized content feeds, reactions, and comment sections. To stay competitive, platforms regularly test new approaches to improve user engagement and time spent on the app.
@@ -39,10 +46,16 @@ The research team is evaluating whether showing one type of content over the oth
 ## Health 1
 
 <p align="center">
-<img src="https://img.freepik.com/free-vector/gradient-fitness-app-template_23-2151095465.jpg" alt="Image by Freepik" width="600"/>
-<figcaption style="font-size: small; text-align: center; color: gray;">Image by 
-<a href="https://www.freepik.com/free-vector/gradient-fitness-app-template_144645198.htm" style="color: gray;" target="_blank">Freepik</a>
-</figcaption>
+  <img src="https://img.freepik.com/free-vector/gradient-fitness-app-template_23-2151095465.jpg" alt="Image by Freepik" width="600"/>
+</p>
+
+<p align="center">
+  <em style="color: #555555; font-size: small;">
+    Image by 
+    <a href="https://www.freepik.com/free-vector/gradient-fitness-app-template_144645198.htm" target="_blank" style="color: #555555;">
+      Freepik
+    </a>
+  </em>
 </p>
 
 Fitness apps often target younger, active users by offering high-intensity workout recommendations, goal-based training plans, and progress tracking integrated with wearable devices. These platforms typically include features like personalized workouts, exercise video libraries, real-time progress charts, and performance feedback. To broaden their appeal, fitness apps are now exploring ways to design more inclusive and age-diverse solutions.
@@ -58,10 +71,16 @@ The app’s design team is now evaluating whether these age-specific fitness opt
 ## Health 2
 
 <p align="center">
-<img src="https://img.freepik.com/free-vector/workout-tracker-app_52683-43468.jpg" alt="Image by Freepik" width="600"/>
-<figcaption style="font-size: small; text-align: center; color: gray;">Image by 
-<a href="https://www.freepik.com/free-vector/workout-tracker-app_9471430.htm" style="color: gray;" target="_blank">Freepik</a>
-</figcaption>
+  <img src="https://img.freepik.com/free-vector/workout-tracker-app_52683-43468.jpg" alt="Image by Freepik" width="600"/>
+</p>
+
+<p align="center">
+  <em style="color: #555555; font-size: small;">
+    Image by 
+    <a href="https://www.freepik.com/free-vector/workout-tracker-app_9471430.htm" target="_blank" style="color: #555555;">
+      Freepik
+    </a>
+  </em>
 </p>
 
 Fitness apps have traditionally focused on longer, high-intensity workout sessions, often requiring users to set aside 30 to 60 minutes for a full routine. These apps offer features such as exercise videos, session tracking, and progress dashboards. While effective for some, this model can make daily exercise difficult to maintain, especially for users with demanding schedules or sedentary work environments.
@@ -77,10 +96,16 @@ The app's team is investigating whether these micro-workouts can increase physic
 ## Productivity 1
 
 <p align="center">
-<img src="https://img.freepik.com/free-vector/task-management-application_23-2148676933.jpg" alt="Image by Freepik" width="600"/>
-<figcaption style="font-size: small; text-align: center; color: gray;">Image by 
-<a href="https://www.freepik.com/free-vector/task-management-application_10183327.htm" style="color: gray;" target="_blank">Freepik</a>
-</figcaption>
+  <img src="https://img.freepik.com/free-vector/task-management-application_23-2148676933.jpg" alt="Image by Freepik" width="600"/>
+</p>
+
+<p align="center">
+  <em style="color: #555555; font-size: small;">
+    Image by 
+    <a href="https://www.freepik.com/free-vector/task-management-application_10183327.htm" target="_blank" style="color: #555555;">
+      Freepik
+    </a>
+  </em>
 </p>
 
 Productivity apps often focus on task management, goal setting, and time tracking, primarily designed for working professionals and students. These tools typically include features like calendar syncing, project planning, and to-do lists to help users stay organized and efficient. However, as the global population ages, a new challenge has emerged: loneliness and lack of daily structure among older adults, especially post-retirement.
@@ -94,10 +119,16 @@ The app's team is investigating whether integrating local volunteering recommend
 ## Productivity 2
 
 <p align="center">
-<img src="https://img.freepik.com/free-vector/task-management-application_23-2148676933.jpg" alt="Image by Freepik" width="600"/>
-<figcaption style="font-size: small; text-align: center; color: gray;">Image by 
-<a href="https://www.freepik.com/free-vector/task-management-application_10183327.htm" style="color: gray;" target="_blank">Freepik</a>
-</figcaption>
+  <img src="https://img.freepik.com/free-vector/task-management-application_23-2148676933.jpg" alt="Image by Freepik" width="600"/>
+</p>
+
+<p align="center">
+  <em style="color: #555555; font-size: small;">
+    Image by 
+    <a href="https://www.freepik.com/free-vector/task-management-application_10183327.htm" target="_blank" style="color: #555555;">
+      Freepik
+    </a>
+  </em>
 </p>
 
 Productivity apps commonly include to-do lists, calendar integration, and goal tracking tools, helping users manage tasks and stay organized. Some platforms offer more advanced features like time tracking, focus timers, and project planning boards. While these tools are widely available, students still report procrastination as a major barrier to academic success, despite using these apps.
