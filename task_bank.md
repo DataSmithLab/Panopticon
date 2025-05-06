@@ -3,11 +3,11 @@
 ## Social 1
 
 <p align="center">
-<img src="https://img.freepik.com/free-vector/dating-app-swipe-concept_23-2148529704.jpg" alt="Image by Freepik" width="600"/>
-<figcaption style="font-size: small; text-align: center; color: gray;">Image by 
-<a href="https://www.freepik.com/free-vector/dating-app-swipe-concept_7912136.htm" style="color: gray;" target="_blank">Freepik</a>
-</figcaption>
+  <img src="https://img.freepik.com/free-vector/dating-app-swipe-concept_23-2148529704.jpg" width="600" alt="Image by Freepik">
 </p>
+<div style="text-align: center; color: gray; font-size: small;">
+  Image by <a href="https://www.freepik.com/free-vector/dating-app-swipe-concept_7912136.htm" target="_blank" style="color: gray;">Freepik</a>
+</div>
 
 In the increasingly digital world of romance, dating apps have become a primary way for people to connect with potential partners. A popular dating app currently includes a matching page that displays basic user information—photos, age, occupation, and a short bio. Users swipe right to express interest or left to pass. To gain a competitive edge, the app is exploring new ways to improve its matching system and user experience.
 
